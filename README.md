@@ -11,7 +11,7 @@ List of files in repository
 
 Task 1
 
-  Task 1.1
+  Task 1.1 
 
     Why cant the student find their private repository when trying to save their notebook to github?
 
@@ -24,10 +24,12 @@ Task 1
     How can you verify that your authentication settings are working correctly?
 
       If authentication is working, a selection from a list of both public and private respositories should appear when saving to github.
+      
 
   Task 1.2
 
       A Github action for Automated task tracking using codespaces was implemented.
+      
 
   Task 1.3
 
@@ -48,6 +50,9 @@ Task 1
       This is fixed by using a different branch within that worktree using "git checkout main".
 
       After that, "git branch -d test-branch" can be used to delete the branch as the branch that is being deleted is no longer being used by another worktree.
+      
+
+  Task 1.4
 
       
 
