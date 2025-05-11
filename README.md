@@ -22,8 +22,10 @@ Task 1
 
 List of files in repository
 
-    Daniel_Lean_ARDUINOSETUP - an image file containing a picture of an arduino and temperature sensor plugged into a laptop
-    24WSA024_JNB_Arduino_Coursework_Final_2025S2(V1).ipynb - The notebook containing the entire coursework brief
-    README.md - A file containing documentation of the coursework tasks
+  Daniel_Lean_ARDUINOSETUP - an image file containing a picture of an arduino and temperature sensor plugged into a laptop
+  
+  24WSA024_JNB_Arduino_Coursework_Final_2025S2(V1).ipynb - The notebook containing the entire coursework brief
+  
+  README.md - A file containing documentation of the coursework tasks
   
      
